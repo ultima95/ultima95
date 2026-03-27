@@ -1,6 +1,10 @@
-# Hi, I'm Thinh Dinh 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Thinh+Dinh+%F0%9F%91%8B;Full-Stack+Developer;NestJS+%26+TypeScript+Enthusiast;Building+real-time+systems;Microservices+%7C+Web3+%7C+and+beyond" alt="Typing SVG" />
+  </a>
+</div>
 
-**Full-Stack Developer · TypeScript · NestJS · Microservices**
+<br/>
 
 I build scalable backends and clean UIs — from RESTful APIs and microservice architectures to real-time systems, Web3, and everything in between.  
 Backend-first mindset, occasionally venturing into game tooling and on-chain experiments.
@@ -18,6 +22,39 @@ Backend-first mindset, occasionally venturing into game tooling and on-chain exp
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-627EEA?style=flat&logo=solidity&logoColor=white)
+
+---
+
+### 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ultima95&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=ultima95&theme=github-dark-blue&hide_border=true" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultima95&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="150" />
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ultima95&theme=onedark&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ultima95/ultima95/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ultima95/ultima95/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ultima95/ultima95/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
